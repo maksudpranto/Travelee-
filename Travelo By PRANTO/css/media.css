@@ -1,0 +1,58 @@
+@media(max-width:575px){
+
+.head h1 {
+	font-size: 40px;
+
+}
+.bform {
+	padding: 8px 0px;
+	font-size: 15px;
+}
+#banner {
+
+	padding: 598px 0px;
+    }
+#meeting {
+
+	padding: 10px 92px;
+    }
+.button {
+	font-size: 20px;
+	padding: 0px;
+	width: 118px;
+	margin-left: 88px;
+	margin-bottom: 10px;
+}
+.ftext h2 {
+
+	font-size: 30px;
+}
+.gallery-block .heading h2 {
+	font-size: 3.4rem;
+	margin-bottom: 38px;
+}
+.card:hover .overlay {
+	
+	height: 64.455%;
+}
+.custom-select {
+	
+	width: 290px;
+	
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+	
+	margin-bottom: 16px;
+}
+.modal-content {
+	
+	width: 33%;
+	height: 57%;
+}
+@media(min-width:576px) and (max-width:767px){
+
+    
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
